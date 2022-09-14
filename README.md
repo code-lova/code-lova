@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @code-lova
 - 👀 I’m interested in coding (php laravel and javascript)
-- 🌱 I’m currently learning laravel and Vue js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ebinuga@hotmail.com
+- 📫 How to reach me jerryscholarsj@gmail.com
 
 <!---
 code-lova/code-lova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
