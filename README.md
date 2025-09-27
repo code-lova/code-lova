@@ -50,6 +50,6 @@ Here are a few highlighted projects I've worked on:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jeremiah-ebizo)
 - 📫 Email: [jeremiahebizo@jerryebizo.com](mailto:jeremiahebizo@jerryebizo.com)
-- 🌐 Portfolio: [your-portfolio.com](jerryebizo.com)
+- 🌐 Portfolio: [https://www.jerryebizo.com](jerryebizo.com)
 
 
