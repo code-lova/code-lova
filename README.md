@@ -20,8 +20,8 @@
 
 Here are a few highlighted projects I've worked on:
 
-- [**St Jonas Educentre**](https://stjonaseducentre.com)  
-  *An educational portal built with Laravel, featuring admin content management, image uploads, and a CI/CD pipeline on Hostinger.*
+- [**NextFlix**](https://code-lova.github.io/portfolio_projects/NextFlix/index.html)  
+  *A NetFlix clone for blockbuster movies showing all movie genres you can think of, with trillers, Liveraging TMDB movies API.*
 
 - [**Handcrafted Haven**](https://github.com/code-lova/handcrafted-haven-frontend)  
   *A Next.js web platform for artisans to showcase and sell handmade items. Built with TypeScript and Tailwind CSS.*
