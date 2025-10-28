@@ -8,8 +8,8 @@
 
 ## 🛠️ Skills & Technologies
 
-- 💻 Languages: **PHP**, **JavaScript**, **TypeScript**, **SQL**
-- 🧰 Frameworks & Tools: **Laravel**, **Next.js**, **React**, **Node.js**, *Python*, **Tailwind CSS**, **Express.js**, **Bootstrap**
+- 💻 Languages: **HTML5**, **CSS3**, **PHP**, **Python**, **JavaScript**, **TypeScript**, **SQL**
+- 🧰 Frameworks & Tools: **Laravel**, **Next.js**, **Vue.js**, **React**, **Node.js**, *Django*, **Tailwind CSS**, **Express.js**, **Bootstrap**
 - 🛢️ Databases: **MySQL**, **MongoDB**, **PostgresQl**
 - ⚙️ DevOps & Others: **GitHub Actions**, **Docker**, **SSH**, **CI/CD**
 - 🔒 Security: **JWT**, **Role-based access control (RBAC)**
